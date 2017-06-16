@@ -2,7 +2,7 @@
 
 
 
-#### About Project
+### About Project
 
 * Stock Hawk is the fourth project in Udacity's Android Developer Nanodegree.
 * The App Displays Current Stock Prices & Price Changes.
